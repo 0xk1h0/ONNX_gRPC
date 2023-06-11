@@ -29,6 +29,8 @@ For RPC methods that return a single response (“response-unary” methods), gR
 
 ### How to usage.
 
+0. `git clone` this repository.
+
 1. Run `train.ipynb` to generate onnx format model file.
 
 2. Run `run_ort_server.sh`
