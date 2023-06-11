@@ -1,0 +1,13 @@
+name: onnx_grpc
+channels:
+- defaults
+dependencies:
+- python=3.11.2
+- pip:
+  - numpy
+  - scikit-learn
+  - xgboost
+  - onnxmltools
+  - onnx
+  - grpcio
+  - onnxruntime
