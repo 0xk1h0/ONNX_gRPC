@@ -3,7 +3,8 @@
 
 ### Serving Machine Learning Model using ONNX with gPRC!
 ---
-[![demo](https://youtu.be/naYlCwZX6Mg/0.jpg)](https://youtu.be/naYlCwZX6Mg)
+[![https://youtu.be/naYlCwZX6Mg/0.jpg](https://i.ytimg.com/vi/naYlCwZX6Mg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB4gWAAuADigIMCAAQARhBIFkoZTAP&rs=AOn4CLChSIAINtrnMhZJ1GYUole-Nh6Fig)](https://youtu.be/naYlCwZX6Mg)
+
 ---
 - Environment : MacBook-Pro / Kernel Version 22.2.0 T6000 arm64 / Python 3.11.2
 
